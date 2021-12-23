@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a356e60.chunk.css",
+    "main.js": "/static/js/main.8a330bc8.chunk.js",
+    "main.js.map": "/static/js/main.8a330bc8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c2b40bba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c2b40bba.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.361c580b.chunk.js": "/static/js/2.361c580b.chunk.js",
+    "static/js/2.361c580b.chunk.js.map": "/static/js/2.361c580b.chunk.js.map",
+    "static/js/3.e27745ab.chunk.js": "/static/js/3.e27745ab.chunk.js",
+    "static/js/3.e27745ab.chunk.js.map": "/static/js/3.e27745ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6a356e60.chunk.css.map": "/static/css/main.6a356e60.chunk.css.map",
+    "static/js/2.361c580b.chunk.js.LICENSE.txt": "/static/js/2.361c580b.chunk.js.LICENSE.txt",
+    "static/media/agriculture.3240e568.png": "/static/media/agriculture.3240e568.png",
+    "static/media/close-outline.a22b61b1.svg": "/static/media/close-outline.a22b61b1.svg",
+    "static/media/home-outline.a7cb6424.svg": "/static/media/home-outline.a7cb6424.svg",
+    "static/media/logo-bitcoin.fb0326ea.svg": "/static/media/logo-bitcoin.fb0326ea.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b40bba.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.361c580b.chunk.js",
+    "static/css/main.6a356e60.chunk.css",
+    "static/js/main.8a330bc8.chunk.js"
+  ]
+}

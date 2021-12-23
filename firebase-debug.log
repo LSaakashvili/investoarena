@@ -1,0 +1,10 @@
+[debug] [2020-12-13T20:41:55.684Z] ----------------------------------------------------------------------
+[debug] [2020-12-13T20:41:55.702Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\L\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-12-13T20:41:55.713Z] CLI Version:   8.17.0
+[debug] [2020-12-13T20:41:55.714Z] Platform:      win32
+[debug] [2020-12-13T20:41:55.714Z] Node Version:  v13.14.0
+[debug] [2020-12-13T20:41:55.902Z] Time:          Mon Dec 14 2020 00:41:55 GMT+0400 (Georgia Standard Time)
+[debug] [2020-12-13T20:41:55.903Z] ----------------------------------------------------------------------
+[debug] [2020-12-13T20:41:55.904Z] 
+[debug] [2020-12-13T20:41:55.930Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Already logged in as lsaakashvili2006@gmail.com
